@@ -1,9 +1,11 @@
-# -Earth-Songs
- Earth Songs of Sorrow and Joy
+### Earth Songs of Sorrow and Joy
+
+ April 22, 2025 7:30pm
+ Lincoln Center Rubinstein Atrium
  
 ###Program
-Echo (Three Essays)...............................................Caroline Shaw
-Heartease (From Grandmother’s Garden).............................Amy Beach
+Echo (Three Essays)                                		Caroline Shaw
+Heartease (From Grandmother’s Garden)				Amy Beach
 Morning Glories  (featuring dancers)
 Earth Song, Community Chorus
 
