@@ -12,12 +12,11 @@ _Morning Glories_ (featuring dancers)
 
 _Earth Song_, Community Chorus
 
-_Les Boreades_ (Acte IV, Scène IV ✽ **Jean-Philippe Rameau
-**
-_Dardanus_ (Prologue, Scène II) ✽ **Jean-Philippe Rameau
-**
-_Trio for Clarinet, Violin and Piano_ ✽ **Paul Schoenfield**
-	II. March
+_Les Boreades_ (Acte IV, Scène IV ✽ **Jean-Philippe Rameau**
+
+_Dardanus_ (Prologue, Scène II) ✽ **Jean-Philippe Rameau**
+
+_Trio for Clarinet, Violin and Piano_ (II. March) ✽ **Paul Schoenfield**
 
 _Ayudame_ ✽ XXX
 
@@ -28,21 +27,20 @@ _Appalachian Waltz_ ✽ **Mark O’Connor**
 _Indecision_ ✽ 
 
 _A Dream within a Dream_ ✽ XXXX
+
 _Sonnet 49_ ✽ XXXX
 
-_Santa Ana_s ✽ **Joan Didion**
+_Santa Anas_ ✽ **Joan Didion**
 
-_String Quartet No. 3_ ✽ **Bela Bartok**
-	III. Moderato 
+_String Quartet No. 3_ (III. Moderato) ✽ **Bela Bartok**
  
-Little Partridge ✽ **Elise Arancio
-**
-_Les Fetes d'Hébé_ ✽ **Jean-Philippe Rameau
-**
+Little Partridge ✽ **Elise Arancio**
+
+_Les Fetes d'Hébé_ ✽ **Jean-Philippe Rameau**
+
 _Heartease_ ✽ **Amy Beach**
 
-_Trio for Clarinet, Violin and Piano_ ✽ **Paul Schoenfield**
-	IV. Kozatzke
+_Trio for Clarinet, Violin and Piano_ (IV. Kozatzke) ✽ **Paul Schoenfield**
 
 _Finis_ ✽ XXXX
 
