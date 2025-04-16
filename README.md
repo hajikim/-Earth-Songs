@@ -3,9 +3,9 @@
  April 22, 2025 7:30pm
  Lincoln Center Rubinstein Atrium
  
-###Program
-Echo (Three Essays)                                		Caroline Shaw
-Heartease (From Grandmother’s Garden)				Amy Beach
+### Program
+Echo (Three Essays) ► Caroline Shaw
+Heartease (From Grandmother’s Garden)► Amy Beach
 Morning Glories  (featuring dancers)
 Earth Song, Community Chorus
 
