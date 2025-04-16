@@ -4,33 +4,46 @@
  Lincoln Center Rubinstein Atrium
  
 ### Program
-Echo (Three Essays) ► Caroline Shaw
-Heartease (From Grandmother’s Garden)► Amy Beach
-Morning Glories  (featuring dancers)
-Earth Song, Community Chorus
+_Echo_ (Three Essays) ✽ **Caroline Shaw**
 
-Les Boreades (Acte IV, Scène IV                                    Jean-Philippe Rameau
-Dardanus (Prologue, Scène II) 
-Trio for Clarinet, Violin and Piano                                Paul Schoenfield
-II. March
+_Heartease_ (From Grandmother’s Garden) ✽ **Amy Beach**
 
-Ayudame                                                             XXX
-Emerson (and others) on Nature                                      XXX
-Appalachian Waltz                                                   Mark O’Connor
-Indecision 
+_Morning Glories_ (featuring dancers)
 
-A Dream within a Dream                                              XXXX
-Sonnet 49                                                           XXXXX
-Santa Anas, Joan Didion
-String Quartet No. 3                                                Bartok
+_Earth Song_, Community Chorus
+
+_Les Boreades_ (Acte IV, Scène IV ✽ **Jean-Philippe Rameau
+**
+_Dardanus_ (Prologue, Scène II) ✽ **Jean-Philippe Rameau
+**
+_Trio for Clarinet, Violin and Piano_ ✽ **Paul Schoenfield**
+	II. March
+
+_Ayudame_ ✽ XXX
+
+_Emerson (and others) on Nature_ ✽ XXX
+
+_Appalachian Waltz_ ✽ **Mark O’Connor**
+
+_Indecision_ ✽ 
+
+_A Dream within a Dream_ ✽ XXXX
+_Sonnet 49_ ✽ XXXX
+
+_Santa Ana_s ✽ **Joan Didion**
+
+_String Quartet No. 3_ ✽ **Bela Bartok**
 	III. Moderato 
-Little Partridge                                                    Elise Arancio
-Les Fetes d'Hébé                                                    Jean-Philippe Rameau
-Heartease                                                           Amy Beach
+ 
+Little Partridge ✽ **Elise Arancio
+**
+_Les Fetes d'Hébé_ ✽ **Jean-Philippe Rameau
+**
+_Heartease_ ✽ **Amy Beach**
 
-Trio for Clarinet, Violin and Piano                                 Paul Schoenfield
-IV. Kozatzke
+_Trio for Clarinet, Violin and Piano_ ✽ **Paul Schoenfield**
+	IV. Kozatzke
 
-Finis                                                               XXXXX
+_Finis_ ✽ XXXX
 
 
