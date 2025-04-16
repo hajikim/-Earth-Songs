@@ -1,1 +1,49 @@
 style.css
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fdfdfd;
+  color: #2c2c2c;
+  line-height: 1.6;
+  padding: 2rem;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  color: #1a1a1a;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #5a5a89;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: #2c2c5a;
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+}
+
+nav {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+
+nav a {
+  margin-right: 1.5rem;
+}
