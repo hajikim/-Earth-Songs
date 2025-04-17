@@ -5,10 +5,10 @@
  
 ### Program
 _Echo_ (Three Essays) ✽ **Caroline Shaw**
-Katya Moeller, Kate Carson, Sydney Whipple, Lila Holyoke (cello)  
+> Katya Moeller, Kate Carson, Sydney Whipple, Lila Holyoke (cello)  
 
 _Heartease_ (From Grandmother’s Garden) ✽ **Amy Beach**
-►Nabeel Hayek
+> Nabeel Hayek
 
 _Morning Glories_ (featuring dancers)
 
