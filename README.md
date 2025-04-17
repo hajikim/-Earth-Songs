@@ -28,7 +28,7 @@ _Trio for Clarinet, Violin and Piano_ (II. March) ✽ **Paul Schoenfield**
 _Ayudame (Venezuelan Plea for Life)_ ✽ **Carlos Cordero**
 > Juilliard Community Chorus*
 
-_Emerson (and others) on Nature_ ✽ **Ralph Ealdo Emerson, Alexia Pores**
+_Emerson (and others) on Nature_ ✽ **Ralph Waldo Emerson, Alexia Pores**
 > Alexia Pores
 
 _Appalachian Waltz_ ✽ **Mark O’Connor**
@@ -63,6 +63,7 @@ _Finis_ ✽ **Amanda Tosoff**
 > Julia Smulson, vocals; Caelan Cardello, piano; Janae Yates, drums; Miriam Goroff-Behel, sax; Allison Lee, bass; Gustavo Cruz, soprano/tenor sax
 
 *Juilliard Community Chorus
+
 **Juilliard Historical Performance: Ela Kodžas, Jimena Burga Lopera, violins; Eliana Estrada, viola; Cordelia Mutter, cello; Josue Daniel Reyes, double bass; Nuria Canales Rubio, traverso; Ashley Mania, bassoon; Nathan Mondry, harpsichord
 
 ### Donation Links
